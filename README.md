@@ -9,8 +9,8 @@
 7. **Proxy**
 8. **Observer**
 9. **Strategy**
-10.**Command**
-11.**State**
+10. **Command**
+11. **State**
 
 ## Other patterns
 
