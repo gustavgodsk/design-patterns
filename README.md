@@ -16,3 +16,8 @@
 
 - Dependency Injection
 - Generator
+
+### Explore
+
+- Possible to wrap `(x => x(x))(x => x(x))` (infinite loop) in a generator?
+- Infinite currying function `f`? eg. `f(1)(2)(3)...(n)`
