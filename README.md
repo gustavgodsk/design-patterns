@@ -1,21 +1,22 @@
 # Design Patterns
 
-1. **Singleton**
-2. **Factory**
-3. **Prototype**
-4. **Adapter**
-5. **Facade**
-6. **Decorator**
-7. **Proxy**
-8. **Observer**
-9. **Strategy**
-10. **Command**
-11. **State**
+1. **Singleton** (js)
+2. **Factory** (js)
+3. **Prototype** (js)
+4. **Adapter** (js)
+5. **Facade** (js)
+6. **Decorator** (js)
+7. **Proxy** (js)
+8. **Observer** (js)
+9. **Strategy** (js)
+10. **Command** (js)
+11. **State** (js)
 
 ## Other patterns
 
 - Dependency Injection
 - Generator
+- Builder pattern
 
 ### Explore
 

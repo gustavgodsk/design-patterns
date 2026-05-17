@@ -7,3 +7,8 @@
 ## Pitfalls
 
 ## Implementation
+
+## Example
+
+## Variations
+
